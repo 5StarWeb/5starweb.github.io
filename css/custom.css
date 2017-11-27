@@ -38,11 +38,11 @@ user-select: none;
   font-size: 16px;
 }
 
-.slide-element h1 {
+#slider .slide-element h1 {
    font-size = 2.5em;
     
 }
 
-.slide-element p {
+#slider .slide-element p {
     font-size = 1.2em;
 } 
