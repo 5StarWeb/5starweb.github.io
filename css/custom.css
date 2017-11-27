@@ -17,3 +17,22 @@ border-radius: 4px;
 -o-user-select: none;
 user-select: none;
 }
+
+.text-center {
+    text-align: center;
+    font-size: 18px;
+}
+
+.col-xs-3 {
+    width: 25%;
+    font-size: 15px;
+    padding: 5px;
+}
+
+.col-xs-12 {
+    width: 100%;
+    font-size: 16px;
+}
+.container {
+  font-size: 16px;
+}
